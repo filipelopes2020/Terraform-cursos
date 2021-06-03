@@ -10,7 +10,10 @@ terraform.tfvars
 *.tfstate
 *.tfstate.*
 
-
+.terraform
+terraform.tfstate
+terraform.tfstate.*
+backup
 
 # Crash log files
 crash.log
